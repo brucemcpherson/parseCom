@@ -1,5 +1,5 @@
 # Google Apps Script Project: parseCom
-This repo (parseCom) was automatically updated on 13 February 2015 21:18:46 GMT by GasGit
+This repo (parseCom) was automatically updated on 02 March 2015 19:31:17 GMT by GasGit
 
 For more information see the [desktop liberation site](http://ramblings.mcpher.com/Home/excelquirks/drivesdk/gettinggithubready "desktop liberation") or [contact me on G+](https://plus.google.com/+BruceMcpherson "Bruce McPherson - GDE")
 ## Details for Apps Script project parseCom
@@ -16,13 +16,13 @@ forPublishing| server_js
 *library*|*identifier*|*key*|*version*|*dev mode*|*source*|
 --- | --- | --- | --- | --- | --- 
 sjclEncryption| sjclEncryption|MphGZav4pHGf9EQx-JdmO7yz3TLx7pV4j|6|no|[here](libraries/sjclEncryption "library source")
-cParseCom| cParseCom|MMaKU0wHrNShUwFypY3nM8iz3TLx7pV4j|9|no|[here](libraries/cParseCom "library source")
+cParseCom| cParseCom|MMaKU0wHrNShUwFypY3nM8iz3TLx7pV4j|16|no|[here](libraries/cParseCom "library source")
 ### All dependencies and sub dependencies
 *library*|*identifier*|*key*|*version*|*dev mode*|*source*|
 --- | --- | --- | --- | --- | --- 
 sjclEncryption| sjclEncryption|MphGZav4pHGf9EQx-JdmO7yz3TLx7pV4j|6|no|[here](libraries/sjclEncryption "library source")
-cParseCom| cParseCom|MMaKU0wHrNShUwFypY3nM8iz3TLx7pV4j|9|no|[here](libraries/cParseCom "library source")
-cUseful| cUseful|Mcbr-v4SsYKJP7JMohttAZyz3TLx7pV4j|17|no|[here](libraries/cUseful "library source")
+cParseCom| cParseCom|MMaKU0wHrNShUwFypY3nM8iz3TLx7pV4j|16|no|[here](libraries/cParseCom "library source")
+cUseful| cUseful|Mcbr-v4SsYKJP7JMohttAZyz3TLx7pV4j|23|no|[here](libraries/cUseful "library source")
 ### Enabled Google Services
 no libraries discovered
 ###Need more detail ?
