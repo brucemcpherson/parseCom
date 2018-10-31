@@ -1,5 +1,5 @@
 # Google Apps Script Project: parseCom
-This repo (parseCom) was automatically updated on 27 July 2016 10:33:39 BST by GasGit
+This repo (parseCom) was automatically updated on 30 October 2018 16:45:01 GMT by GasGit
 
 For more information see the [desktop liberation site](http://ramblings.mcpher.com/Home/excelquirks/drivesdk/gettinggithubready "desktop liberation") or [contact me on G+](https://plus.google.com/+BruceMcpherson "Bruce McPherson - GDE")
 ## Details for Apps Script project parseCom
@@ -12,18 +12,19 @@ The shared link for [parseCom is here](https://script.google.com/d/17QcedqNDApEi
 localModules| server_js
 examples| server_js
 forPublishing| server_js
+appsscript| json
 ### Directly referenced libraries
 *library*|*identifier*|*key*|*version*|*dev mode*|*source*|
 --- | --- | --- | --- | --- | --- 
-sjclEncryption| sjclEncryption|MphGZav4pHGf9EQx-JdmO7yz3TLx7pV4j|6|no|[here](libraries/sjclEncryption "library source")
-cParseCom| cParseCom|MMaKU0wHrNShUwFypY3nM8iz3TLx7pV4j|16|no|[here](libraries/cParseCom "library source")
+sjclEncryption| sjclEncryption|19dEhJYSTE3oqvvjtbrVQAxGd9PPAtSP4Uv_KvBHE7qeug4vu2BSOAJEN|6|no|[here](libraries/sjclEncryption "library source")
+cParseCom| cParseCom|17Og7-oAPxubIB38lXSniOMcMWkH9I9FxOaLIeIeAACg__QaVxld-UHIb|16|no|[here](libraries/cParseCom "library source")
 ### All dependencies and sub dependencies
 *library*|*identifier*|*key*|*version*|*dev mode*|*source*|
 --- | --- | --- | --- | --- | --- 
-sjclEncryption| sjclEncryption|MphGZav4pHGf9EQx-JdmO7yz3TLx7pV4j|6|no|[here](libraries/sjclEncryption "library source")
-cParseCom| cParseCom|MMaKU0wHrNShUwFypY3nM8iz3TLx7pV4j|16|no|[here](libraries/cParseCom "library source")
-cUseful| cUseful|Mcbr-v4SsYKJP7JMohttAZyz3TLx7pV4j|25|no|[here](libraries/cUseful "library source")
+sjclEncryption| sjclEncryption|19dEhJYSTE3oqvvjtbrVQAxGd9PPAtSP4Uv_KvBHE7qeug4vu2BSOAJEN|6|no|[here](libraries/sjclEncryption "library source")
+cParseCom| cParseCom|17Og7-oAPxubIB38lXSniOMcMWkH9I9FxOaLIeIeAACg__QaVxld-UHIb|16|no|[here](libraries/cParseCom "library source")
+cUseful| cUseful|1EbLSESpiGkI3PYmJqWh3-rmLkYKAtCNPi1L2YCtMgo2Ut8xMThfJ41Ex|25|no|[here](libraries/cUseful "library source")
 ### Enabled Google Services
 no libraries discovered
-###Need more detail ?
+### Need more detail ?
 You can see [full project info as json here](info.json)
